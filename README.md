@@ -9,7 +9,8 @@
 
 # Next Level Week #Together (NLW) - PayFlow
 
-O PayFlow se trata de um aplicativo flutter focado no gerenciamento de boletos. Esse projeto foi desenvolvido por **[@Valtenis Souza](https://github.com/souzavaltenis)**, com o instrutor **[@GabulDev](https://github.com/gabuldev)**, na NLW Together da **[Rocketseat](https://rocketseat.com.br/)**.<br>
+<h3>O PayFlow trata-se de um aplicativo Flutter focado no gerenciamento de boletos. Esse projeto foi desenvolvido por <a href="https://github.com/souzavaltenis">Valtenis Souza</a>, com o instrutor <a href="https://github.com/gabuldev">GabulDev</a>, na NLW Together da <a href="https://rocketseat.com.br/">Rocketseat</a>.</h3>
+
 ---
 
 [![Author](https://img.shields.io/badge/author-souzavaltenis-AD1256?style=flat-square)](https://github.com/souzavaltenis)
