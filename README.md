@@ -24,15 +24,15 @@
 <table>
   <tr>
     <td>Splash Screen</td>
-    <td>Home</td>
     <td>Login 1</td>
     <td>Login 2</td>
+    <td>Home</td>
   </tr>
   <tr>
     <td><img src="/screenshots/1_splash.png" width="200px;" alt="Splash Screen"/></td>
-    <td><img src="/screenshots/2_login_a.png" width="200px;" alt="Home"/></td>
-    <td><img src="/screenshots/4_login_b.png" width="200px;" alt="Login 1"/></td>
-    <td><img src="/screenshots/3_home.png" width="200px;" alt="Login 2"/></td>
+    <td><img src="/screenshots/2_login_a.png" width="200px;" alt="Login 1"/></td>
+    <td><img src="/screenshots/4_login_b.png" width="200px;" alt="Login 2"/></td>
+    <td><img src="/screenshots/3_home.png" width="200px;" alt="Home"/></td>
   </tr>
   <tr>
     <td>Barcode 1</td>
